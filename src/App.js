@@ -113,7 +113,7 @@ function App() {
 
         setGameStage(stages[2].name);
       }
-   });
+   }, [guesses]);
 
   // restart the game
   const retry = () => {
