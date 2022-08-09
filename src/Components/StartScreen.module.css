@@ -1,0 +1,47 @@
+.start h1{
+    padding-top: 200px;
+    font-size:3em;
+    margin: 0;
+    text-align: left;
+    margin-bottom: -50px;
+    font-family: sans-serif;
+}
+
+.start .title{
+    font-size: 5.5em;
+    margin: 0px;
+    text-align: left;
+    color: #fff;
+}
+
+.title_last{
+    font-size: 5.5em;
+    margin: 0px;
+    margin-left: -15px;
+    color: #fff;
+}
+
+.start .title_destaque{
+    color:rgb(104, 33, 197);
+    background-color: #ecfa00;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 7px;
+    font-size: 5.5em;
+    margin-left: -15px;
+    box-shadow: 5px 5px 20px 5px rgb(61, 61, 61);
+    
+    
+}
+
+
+
+.start p{
+    margin-bottom: 2rem;
+    color: #ECFA00;
+    font-size: 3.5em;
+}
+
+.start button{
+    margin-top: 20px;
+}
