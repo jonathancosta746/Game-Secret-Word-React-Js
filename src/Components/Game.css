@@ -48,3 +48,28 @@
     margin-right: 1em;
     border-radius: 7px;
 }
+
+/*=========MEDIA QUERIES (DISPOSITIVOS PEQUENOS) ==========*/
+@media screen and (max-width:600px){
+    .game h1{
+        font-size: 2em;
+    }
+    
+        
+    .wordContainer {
+        margin: .3em;
+        padding: .3em;
+        border: 12px solid #ecfa00;
+        display: flex;
+        border-radius: 30px;
+        justify-content: center;
+    }
+    
+    .letter, .blankSquare{
+        font-size: 15px;
+        line-height: 1.8;
+        border: 2px solid #000;
+        height: 30px;
+        width: 30px;
+    }   
+}

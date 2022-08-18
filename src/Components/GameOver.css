@@ -2,3 +2,14 @@ h2 span{
     color: #ECFa00;
     font-size: 1.5em;
 }
+
+/*=========MEDIA QUERIES (DISPOSITIVOS PEQUENOS) ==========*/
+@media screen and (max-width:600px){
+    .gameover{
+        font-size: 15px;
+    }
+
+    h2 span{
+        font-size: 1em;
+    }
+}

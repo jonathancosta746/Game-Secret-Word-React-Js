@@ -1,6 +1,6 @@
 .start h1{
     padding-top: 200px;
-    font-size:4em;
+    font-size: 4em;
     margin: 0;
     text-align: left;
     margin-bottom: -50px;
@@ -40,4 +40,25 @@
 
 .start button{
     margin-top: 20px;
+}
+
+
+/*=========MEDIA QUERIES (DISPOSITIVOS PEQUENOS) ==========*/
+@media screen and (max-width:600px){
+    .start h1{
+        font-size: 2em;
+    }
+    
+    .start .title{
+        font-size: 4em;
+    }
+    
+    .title_last{
+        font-size: 4em;
+    }
+    
+    .start .title_destaque{
+        font-size: 4.5em;
+    }
+    
 }
