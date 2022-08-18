@@ -18,7 +18,7 @@ const stages = [
   {id: 3, name: "end"},
 ];
 
-const guessesQty = 3
+const guessesQty = 5;
 
 function App() {
   const [gameStage, setGameStage] = useState(stages[0].name);
@@ -133,14 +133,15 @@ function App() {
 
       // restart game with new word
       startGame();
+      setGuesses (5);
     }
-  }, [guessedLetters, letters, startGame]);
+  }, [guessedLetters, letters, startGame, gameStage]);
 
 
   // restart the game
   const retry = () => {
     setScore(0);
-    setGuesses (guessesQty);
+    setGuesses (5);
 
     setGameStage(stages[0].name)
   };

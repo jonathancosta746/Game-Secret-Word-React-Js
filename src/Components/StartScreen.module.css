@@ -1,6 +1,6 @@
 .start h1{
     padding-top: 200px;
-    font-size:3em;
+    font-size:4em;
     margin: 0;
     text-align: left;
     margin-bottom: -50px;
@@ -29,12 +29,8 @@
     border-radius: 7px;
     font-size: 5.5em;
     margin-left: -15px;
-    box-shadow: 5px 5px 20px 5px rgb(61, 61, 61);
-    
-    
+    box-shadow: 5px 5px 20px 5px rgb(61, 61, 61);   
 }
-
-
 
 .start p{
     margin-bottom: 2rem;
