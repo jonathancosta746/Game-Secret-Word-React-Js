@@ -4,6 +4,10 @@
 ## Como visualizar o projeto?
 Disponível do link https://62ff85d23c0d0a00b739a098--taupe-pony-cb7bec.netlify.app/
 
+ou
+
+Ao realizar clone no repositório, digite 'npm install' ou 'yarn install' caso use Yarn.
+
 ## Como funciona o projeto?
 WebGame simples utilizando o React Js desenvolvido durante o curso React do Zero a Maestria (c/ hooks, router, API, Projetos) ministrado pelo desenvolvedor Matheus Battisti na plataforma Udemy.
 
