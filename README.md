@@ -2,7 +2,7 @@
 
 
 ## Como visualizar o projeto?
-Disponível do link https://62ff85d23c0d0a00b739a098--taupe-pony-cb7bec.netlify.app/
+Disponível do link https://secret-word-react.netlify.app/
 
 ou
 
