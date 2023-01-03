@@ -1,5 +1,6 @@
 # Game Secret-Word React Js
 
+![secret word](https://user-images.githubusercontent.com/26524921/210453751-c497c225-fea1-4435-92c5-ba8e9b4dcc4d.png)
 
 ## Como visualizar o projeto?
 Disponível do link https://secret-word-react.netlify.app/
